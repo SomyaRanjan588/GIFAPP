@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GIFAPP/static/css/main.4ffca44c.chunk.css",
+    "main.js": "/GIFAPP/static/js/main.c33e11f8.chunk.js",
+    "main.js.map": "/GIFAPP/static/js/main.c33e11f8.chunk.js.map",
+    "runtime-main.js": "/GIFAPP/static/js/runtime-main.a3228033.js",
+    "runtime-main.js.map": "/GIFAPP/static/js/runtime-main.a3228033.js.map",
+    "static/css/2.d45d6843.chunk.css": "/GIFAPP/static/css/2.d45d6843.chunk.css",
+    "static/js/2.32ee180b.chunk.js": "/GIFAPP/static/js/2.32ee180b.chunk.js",
+    "static/js/2.32ee180b.chunk.js.map": "/GIFAPP/static/js/2.32ee180b.chunk.js.map",
+    "static/js/3.0ffb32b2.chunk.js": "/GIFAPP/static/js/3.0ffb32b2.chunk.js",
+    "static/js/3.0ffb32b2.chunk.js.map": "/GIFAPP/static/js/3.0ffb32b2.chunk.js.map",
+    "index.html": "/GIFAPP/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/GIFAPP/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.4ffca44c.chunk.css.map": "/GIFAPP/static/css/main.4ffca44c.chunk.css.map",
+    "static/js/2.32ee180b.chunk.js.LICENSE.txt": "/GIFAPP/static/js/2.32ee180b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3228033.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.32ee180b.chunk.js",
+    "static/css/main.4ffca44c.chunk.css",
+    "static/js/main.c33e11f8.chunk.js"
+  ]
+}
